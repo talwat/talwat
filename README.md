@@ -8,7 +8,7 @@
 * [Python](https://python.org)
 * [Mcfunction](https://minecraft.net) *Kind of a language???*
 
-# GitHub Stats Visualization
+## GitHub Stats Visualization
 
 ![](https://github.com/talwat/talwat/blob/master/generated/overview.svg)
 ![](https://github.com/talwat/talwat/blob/master/generated/languages.svg)
@@ -39,4 +39,4 @@
 
 ## Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talwat&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talwat&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
