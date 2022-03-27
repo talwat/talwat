@@ -7,9 +7,9 @@
 * [C#](https://dotnet.microsoft.com/)
 * [Python](https://python.org)
 * [Mcfunction](https://minecraft.net) *Kind of a language???*
-* bash
-* go
-* html/css/JS
+* [Bash](https://www.gnu.org/software/bash/)
+* [Go](https://go.dev/)
+* HTML/CSS/JS
 
 ## GitHub Stats Visualization
 
