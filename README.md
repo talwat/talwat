@@ -34,8 +34,6 @@
 
 * ☕ My favorite drink is coffee.
 
-* 🎮 I play video games, mainly sandbox ones like minecraft and terraria.
-
 * 🐱 I also like cats more than dogs.
 
 * 🤷‍♀️ I am very, very bad at art & graphic design.
