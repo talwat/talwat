@@ -10,6 +10,7 @@
 * [Go](https://go.dev/)
 * HTML/CSS/JS
 * [Typescript](https://www.typescriptlang.org/)
+* [Svelte](https://svelte.dev/)
 
 ## GitHub Stats Visualization
 
@@ -18,6 +19,8 @@
 
 ## My Projects
 
+* [Coffee Tracker](https://github.com/talwat/coffee-tracker)
+* [Flag Guesser](https://github.com/talwat/flag-guesser)
 * [IndiePKG](https://github.com/talwat/indiepkg)
 * [SkinModPy](https://github.com/talwat/skinmodpy)
 * [py-load](https://github.com/talwat/py-load)
@@ -27,15 +30,10 @@
 ## About me
 
 * 🖥 My main passion is programming and computers.
-
 * 🐧 I like linux & open source software.
-
 * ⌨ I use vscode and vim.
-
 * ☕ My favorite drink is coffee.
-
 * 🐱 I also like cats more than dogs.
-
 * 🤷‍♀️ I am very, very bad at art & graphic design.
 
 ## Streak
