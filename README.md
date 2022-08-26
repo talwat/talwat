@@ -1,15 +1,15 @@
 # Talwat | ![Profile views](https://gpvc.arturio.dev/Talwat)
 
-### [Youtube](https://www.youtube.com/channel/UCpO9FoLY3QBn7FmjG-UAgow) | [Github](https://github.com/talwat/datagen) | [Discord](https://discordid.netlify.app/?id=741143876563370086)
+### [Youtube](https://www.youtube.com/channel/UCpO9FoLY3QBn7FmjG-UAgow) | [Github](https://github.com/talwat) | [Discord](https://discordid.netlify.app/?id=741143876563370086)
 
 ## Languages I know
 
-* [C#](https://dotnet.microsoft.com/)
 * [Python](https://python.org)
-* [Mcfunction](https://minecraft.net) *Kind of a language???*
+* [Mcfunction](https://minecraft.net)
 * [Bash](https://www.gnu.org/software/bash/)
 * [Go](https://go.dev/)
 * HTML/CSS/JS
+* [Typescript](https://www.typescriptlang.org/)
 
 ## GitHub Stats Visualization
 
