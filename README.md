@@ -1,6 +1,4 @@
-# Talwat | ![Profile views](https://gpvc.arturio.dev/Talwat)
-
-### [Youtube](https://www.youtube.com/channel/UCpO9FoLY3QBn7FmjG-UAgow) | [Github](https://github.com/talwat) | [Discord](https://discordid.netlify.app/?id=741143876563370086)
+# Talwat
 
 ## Languages I know
 
@@ -19,6 +17,7 @@
 
 ## My Projects
 
+* [pap](https://github.com/talwat/pap)
 * [Coffee Tracker](https://github.com/talwat/coffee-tracker)
 * [Flag Guesser](https://github.com/talwat/flag-guesser)
 * [IndiePKG](https://github.com/talwat/indiepkg)
@@ -32,9 +31,7 @@
 * 🖥 My main passion is programming and computers.
 * 🐧 I like linux & open source software.
 * ⌨ I use vscode and vim.
-* ☕ My favorite drink is coffee.
-* 🐱 I also like cats more than dogs.
-* 🤷‍♀️ I am very, very bad at art & graphic design.
+* ☕ My favorite drink is coffee.=
 
 ## Streak
 
