@@ -28,10 +28,10 @@
 
 ## About me
 
-* 🖥 My main passion is programming and computers.
+* 🖥 My main hobby is programming and computers.
 * 🐧 I like linux & open source software.
 * ⌨ I use vscode and vim.
-* ☕ My favorite drink is coffee.=
+* ☕ My favorite drink is coffee.
 
 ## Streak
 
