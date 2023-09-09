@@ -2,18 +2,19 @@
 
 ## Languages I know
 
-* [Python](https://python.org)
-* [Mcfunction](https://minecraft.net)
-* [Bash](https://www.gnu.org/software/bash/)
-* [Go](https://go.dev/)
-* HTML/CSS/JS
-* [Typescript](https://www.typescriptlang.org/)
-* [Svelte](https://svelte.dev/)
+-   [Python](https://python.org)
+-   [Mcfunction](https://minecraft.net)
+-   [Bash](https://www.gnu.org/software/bash/)
+-   [Go](https://go.dev/)
+-   [HTML](https://en.wikipedia.org/wiki/HTML)/[CSS](https://en.wikipedia.org/wiki/CSS)/[JS](https://en.wikipedia.org/wiki/JavaScript)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [Svelte](https://svelte.dev/)
+-   [Rust](https://www.rust-lang.org/)
 
 ## GitHub Stats Visualization
 
-![](https://github.com/talwat/talwat/blob/master/generated/overview.svg)
-![](https://github.com/talwat/talwat/blob/master/generated/languages.svg)
+![Overview](https://github.com/talwat/talwat/blob/master/generated/overview.svg)
+![Languages](https://github.com/talwat/talwat/blob/master/generated/languages.svg)
 
 ## My Projects
 
@@ -28,11 +29,8 @@
 
 ## About me
 
-* 🖥 My main hobby is programming and computers.
-* 🐧 I like linux & open source software.
-* ⌨ I use vscode and vim.
-* ☕ My favorite drink is coffee.
+Hi! I'm Tal.
 
-## Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talwat&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+I love programming and computers. I'm trying to get into more low level computing recently.
+I also like Linux and open source software. Some of my other hobbies are coffee (both drinking and brewing),
+and more recently, model airplanes. I also like mathematics and I mainly use vscode.
