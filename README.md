@@ -32,5 +32,4 @@
 Hi! I'm Tal.
 
 I love programming and computers. I'm trying to get into more low level computing recently.
-I also like Linux and open source software. Some of my other hobbies are coffee (both drinking and brewing),
-and more recently, model airplanes. I also like mathematics and I mainly use vscode.
+I also like Linux and open source software. Some of my other hobbies are coffee (both drinking and brewing)
