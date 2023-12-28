@@ -16,17 +16,6 @@
 ![Overview](https://github.com/talwat/talwat/blob/master/generated/overview.svg)
 ![Languages](https://github.com/talwat/talwat/blob/master/generated/languages.svg)
 
-## My Projects
-
-* [pap](https://github.com/talwat/pap)
-* [Coffee Tracker](https://github.com/talwat/coffee-tracker)
-* [Flag Guesser](https://github.com/talwat/flag-guesser)
-* [IndiePKG](https://github.com/talwat/indiepkg)
-* [SkinModPy](https://github.com/talwat/skinmodpy)
-* [py-load](https://github.com/talwat/py-load)
-* [pokeget](https://github.com/talwat/pokeget)
-* [Frog](https://github.com/talwat/frog)
-
 ## About me
 
 Hi! I'm Tal.
