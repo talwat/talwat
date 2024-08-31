@@ -20,5 +20,4 @@
 
 Hi! I'm Tal.
 
-I love programming and computers. I'm trying to get into more low level computing recently.
-I also like Linux and open source software. Some of my other hobbies are coffee (both drinking and brewing)
+I love programming, computers & coffee.
