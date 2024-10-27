@@ -24,4 +24,3 @@ I mainly like Computers & Coffee, but I also enjoy hiking/trails.
 ## GitHub Stats Visualization
 
 ![Overview](https://github.com/talwat/talwat/blob/master/generated/overview.svg)
-![Languages](https://github.com/talwat/talwat/blob/master/generated/languages.svg)
