@@ -1,6 +1,10 @@
 # Talwat
 
-## Languages I know
+Hi! I'm Tal.
+
+I mainly like Computers & Coffee, but I also enjoy hiking/trails.
+
+## Programming Languages
 
 -   [Python](https://python.org)
 -   [Mcfunction](https://minecraft.net)
@@ -11,13 +15,13 @@
 -   [Svelte](https://svelte.dev/)
 -   [Rust](https://www.rust-lang.org/)
 
+## Non-Programming Languages
+
+-   English 🇺🇸
+-   Hebrew / עברית 🇮🇱
+-   Spanish / Español / Castellano 🇪🇸
+
 ## GitHub Stats Visualization
 
 ![Overview](https://github.com/talwat/talwat/blob/master/generated/overview.svg)
 ![Languages](https://github.com/talwat/talwat/blob/master/generated/languages.svg)
-
-## About me
-
-Hi! I'm Tal.
-
-I love programming, computers & coffee.
