@@ -2,7 +2,7 @@
 
 Hi! I'm Tal.
 
-I mainly like Computers & Coffee, but I also enjoy hiking/trails.
+I mainly like computers & coffee, but I also enjoy hiking/trails.
 
 ## Programming Languages
 
@@ -14,12 +14,6 @@ I mainly like Computers & Coffee, but I also enjoy hiking/trails.
 -   [Typescript](https://www.typescriptlang.org/)
 -   [Svelte](https://svelte.dev/)
 -   [Rust](https://www.rust-lang.org/)
-
-## Non-Programming Languages
-
--   English 🇺🇸
--   Hebrew / עברית 🇮🇱
--   Spanish / Español / Castellano 🇪🇸
 
 ## GitHub Stats Visualization
 
