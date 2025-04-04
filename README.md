@@ -2,7 +2,7 @@
 
 Hi! I'm Tal.
 
-I mainly like computers & coffee, but I also enjoy hiking/trails.
+I mainly like computers & coffee, but I also enjoy hiking.
 
 ## Programming Languages
 
