@@ -14,7 +14,3 @@ I mainly like computers & coffee, but I also enjoy hiking/trails.
 -   [Typescript](https://www.typescriptlang.org/)
 -   [Svelte](https://svelte.dev/)
 -   [Rust](https://www.rust-lang.org/)
-
-## GitHub Stats Visualization
-
-![Overview](https://github.com/talwat/talwat/blob/master/generated/overview.svg)
